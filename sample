@@ -1,0 +1,8 @@
+Sample script output, with identifying information redacted.
+
+Format of output:
+System Properties as of Timestamp formatted YYYMMDDTHHmmSSffff
+Name, Domain, Manufacturer, Model, Total Physical Memory, Serial Number, Processor Name, Max Clock Speed, Address width, Number of cores, Number of Logical Processors, Hard Drive Capacity, MAC Address of NIC, Windows Edition, Windows Build Version, Antivirus Product
+
+System Properties as of 20171127T1525374087
+IT---------L10,redacted.edu,TOSHIBA,TECRA R950,8533487616,6-------H,Intel(R) Core(TM) i7-3520M CPU @ 2.90GHz,2901,64,2,4,298,AA-AA-AA-AA-AA-AA,Microsoft Windows 10 Enterprise,10.0.16299,AV
